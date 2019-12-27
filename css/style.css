@@ -75,6 +75,7 @@ body{
     font-size: 14px;
     font-weight: 500;
     min-width: 4em;
+    width: 178px;
     outline: none;
     text-align: center;
     -webkit-tap-highlight-color: transparent;
